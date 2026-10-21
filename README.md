@@ -1,39 +1,41 @@
 
-# 📊 Global Superstore Sales & Profit Analysis Dashboard
 
-This repository contains an **interactive Power BI dashboard** focused on Global Superstore sales, profit, and business performance analysis.
+# 📊 Sales Performance Dashboard | Power BI
+
+This repository contains an **interactive Power BI report** focused on sales performance analysis and business insights.
 
 ## 📝 Report Tabs
 
-### 1️⃣ Global Superstore Sales & Profit Analysis Dashboard
+### 1️⃣ Sales Performance Dashboard
 Includes key performance indicators (KPIs) such as:
-- 💰 Sales and Profit Analysis
-- 📦 Order Performance Metrics
+- 💰 Sales Performance Metrics
+- 🔄 New and Returning Customers
 - 🔝 Top N Performers
 - 🔻 Bottom N Performers
-- 📈 Sales and Profit Insights
+- 📈 Sales Trends and Insights
 
 ### 2️⃣ Cohort Analysis
-- 📊 Visual cohort diagram to analyze customer cohort patterns and trends over time.
+- 📊 Visual cohort diagram to analyze customer behavior and trends over time.
 
 ## 🎯 Purpose
-This dashboard helps identify sales trends, evaluate profitability, understand customer behavior, and support data-driven business decisions.
+To analyze sales performance, identify business trends, and support data-driven decision-making.
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools Used
 - Microsoft Power BI
 - Power Query
 - DAX
 - Data Visualization
 
-## 🚀 How to View
-1. Download the `.pbix` file from this repository.
-2. Open it in Microsoft Power BI Desktop.
-3. Explore both dashboard tabs and their interactive visualizations.
-
+## 👨‍💻 Author
+**Darshan Sonawane**
 
 [LinkedIn Profile](https://www.linkedin.com/in/darshan-sonawane-2000ab355/)
 Get interactive report:
 (https://claude.ai/artifact/PtYfpqA3m3rJddeCcqJeHu)
+---
+⭐ Feel free to explore the project and share your feedback!
+
+
 
 ---
 ⭐ Feel free to explore the project and share your feedback!
